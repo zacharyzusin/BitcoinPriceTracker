@@ -45,7 +45,7 @@ mix deps.get
 ```
 
 ## Key Project Files
-
+```
 bitcoin_tracker/
 ├── lib/
 │   ├── bitcoin_tracker/
@@ -59,7 +59,7 @@ bitcoin_tracker/
 └── assets/
     └── js/
         └── app.js               # JavaScript for Chart.js
-
+```
 
 Below are the unique files created for this project. Add them into your Phoenix project after setup.
 
