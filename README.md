@@ -1,6 +1,6 @@
 # Bitcoin Price Tracker
 
-A real-time Bitcoin price tracking application built with Elixir/Phoenix, featuring LiveView for real-time updates and PostgreSQL for price history storage. This project was created as a learning exercise for working with Elixir, Phoenix LiveView, and PostgreSQL.
+A real-time Bitcoin price tracking application built with Elixir/Phoenix, featuring LiveView for real-time updates and PostgreSQL for price history storage.
 
 ## Features
 - Real-time Bitcoin price updates using CoinMarketCap API
